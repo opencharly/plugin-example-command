@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-example-command:
     candy:
-        version: 2026.175.0900
         description: |-
             Reference OUT-OF-TREE charly COMMAND-class plugin — a standalone Go module
             (go.mod + main.go) contributing the `examplecommand` command via the charly
